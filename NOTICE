@@ -1,0 +1,6 @@
+TDDM
+Copyright 2026 David Bergström
+
+This repository also contains third-party code under its own licenses; see the
+license and NOTICE files in timegan/, timevae/, cosci-gan/, diffusion-ts/,
+difftraj/ and tddpm/denoising_diffusion_pytorch/.
